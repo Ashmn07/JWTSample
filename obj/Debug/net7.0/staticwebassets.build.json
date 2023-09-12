@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "88tT7HiIjdEkzdW6p/TiPYXfgVSVO1o6763/YQWiBZQ=",
+  "Source": "SampleJWTApp",
+  "BasePath": "_content/SampleJWTApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
